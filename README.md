@@ -1,7 +1,7 @@
 # NeoPixelCatch
 Adafruit Circuit Playground Game for ENGR103 @OSU <br>
 
-**NECESSARILY LIBRARIES AND DEVICES -** <br>
+**NECESSARY LIBRARIES AND DEVICES -** <br>
 This game is designed for the Adafruit Circuit Playground Express <br>
 The necessary library is only the one specific to this board <br>
 **LIBRARY -**
